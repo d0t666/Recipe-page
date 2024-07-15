@@ -76,6 +76,7 @@ h6 {
 .recipe-page_thumb {
     width: 100%;
     object-fit: cover;
+    border-radius: 12px;
 }
 .recipe-page__heading {
     margin-top: 40px;
